@@ -1,4 +1,4 @@
 // see test case
 export function totalVotes(input) {
-  return null
+  return input.filter(x => x.voted).length
 }
