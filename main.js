@@ -9,9 +9,9 @@ import swapCase_test from './exercise/swapCase/swapCase_test'
 function main() {
   matching2Array_test()
   reverseArray_test()
-  flatten_test()
   totalVotes_test()
   symmetric_test()
+  flatten_test()
   swapCase_test()
   primeTo_test()
 }
