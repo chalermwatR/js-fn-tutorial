@@ -3,3 +3,6 @@ ES6
 - map reduce filter
 - space operator
 
+how to run
+- npm install
+- npm run main
